@@ -1,0 +1,21 @@
+{
+  "name": "sqa-automation",
+  "version": "1.0.0",
+  "description": "This project contains automated Tests using Playwright and Javascript",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saifulislamrayhan/SQA-Automation.git"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/saifulislamrayhan/SQA-Automation/issues"
+  },
+  "homepage": "https://github.com/saifulislamrayhan/SQA-Automation#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.63.0",
+    "@types/node": "^26.6.2"
+  }
+}
